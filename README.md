@@ -5,7 +5,7 @@ Edit
 # VibeNgo 🚗💬  
 *Hybrid Ride Booking App with Real-Time Carpool Integration*
 
-![VibeNgo Logo](./assets/logo.png) <!-- Optional: Add your logo here -->
+![VibeNgo Logo](./assets/images/favicon.png) <!-- Optional: Add your logo here -->
 
 ## 🔗 Live Demo
 Coming Soon! *(or add your Expo/Firebase deployment link here)*
