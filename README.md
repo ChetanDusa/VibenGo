@@ -105,8 +105,8 @@ Edit
 </p>
 
 <p align="center">
-  <img src="screenshots/IMG_8251.jpg" width="22%" />
-  <img src="screenshots/IMG_8252.jpg" width="22%" />
+  <img src="screenshots/IMG_8251.png" width="22%" />
+  <img src="screenshots/IMG_8252.png" width="22%" />
   <img src="screenshots/IMG_8253.jpg" width="22%" />
   <img src="screenshots/IMG_8254.jpg" width="22%" />
 </p>
