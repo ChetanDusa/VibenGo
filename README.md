@@ -4,8 +4,14 @@
 
 ![VibeNgo Logo](./assets/images/favicon.png) <!-- Optional: Add your logo here -->
 
-## 🔗 Live Demo
-Coming Soon! *(or add your Expo/Firebase deployment link here)*
+### 🔗 Live Demo & Screenshots
+
+ **Download the App** from Expo:  
+👉 [Click here to install VibeNgo](https://expo.dev/accounts/bommireddy3132/projects/VibeNgo/builds/845f9f19-e516-4b88-9a41-02722b97a2b4)
+
+ **Screenshots Available**  
+Check out the [`screenshots/`](./screenshots) folder in this repository to preview the app interface and flows.
+
 
 ## 📱 Overview
 
