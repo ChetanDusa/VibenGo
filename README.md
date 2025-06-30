@@ -1,5 +1,5 @@
 
-# VibeNgo 🚗💬  
+# VibeNgo  
 *Hybrid Ride Booking App with Real-Time Carpool Integration*
 
 ![VibeNgo Logo](./assets/images/favicon.png) <!-- Optional: Add your logo here -->
@@ -12,11 +12,11 @@ Coming Soon! *(or add your Expo/Firebase deployment link here)*
 **VibeNgo** is a full-stack cross-platform mobile application that streamlines cab bookings with an integrated real-time carpool suggestion system. It promotes cost-effective and eco-friendly ride-sharing by connecting users traveling along similar routes.
 
 ### ✨ Features
-- 🚕 **Cab Booking**: Quickly book rides with intuitive UI and live tracking.
-- 🧭 **Real-Time Carpool Suggestions**: Automatically matches nearby users for shared rides.
-- 🗺️ **Interactive Map**: Integrated **Google Maps API** for live location and route visualization.
-- ⏱️ **Multi-Stop Support**: Add multiple stops with estimated reach time at each.
-- 📲 **Cross-Platform**: Built using **React Native + Expo** for both Android and iOS.
+-  **Cab Booking**: Quickly book rides with intuitive UI and live tracking.
+-  **Real-Time Carpool Suggestions**: Automatically matches nearby users for shared rides.
+-  **Interactive Map**: Integrated **Google Maps API** for live location and route visualization.
+-  **Multi-Stop Support**: Add multiple stops with estimated reach time at each.
+-  **Cross-Platform**: Built using **React Native + Expo** for both Android and iOS.
 
 ---
 
@@ -38,7 +38,7 @@ Edit
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js >= 16
@@ -76,40 +76,13 @@ Backend (if any)	Node.js / Express / Firebase Functions
 
 👨‍💻 Contributors
 Varun
-Dusa Chetan
+Chetan
 Sairam
-
 
 Dr. Subhra Mazumdar – Project Guide
 
-📝 License
-This project is licensed under the MIT License. See LICENSE for details.
 
 Made with ❤️ at IIT Indore
-
-yaml
-Copy
-Edit
-
----
-
----
-
-## 📸 App Screenshots Preview
-
-<p align="center">
-  <img src="screenshots/IMG_8251.PNG" width="22%" />
-  <img src="screenshots/IMG_8252.PNG" width="22%" />
-  <img src="screenshots/IMG_8253.PNG" width="22%" />
-  <img src="screenshots/IMG_8254.PNG" width="22%" />
-</p>
-
-<p align="center">
-  <img src="screenshots/IMG_8256.PNG" width="22%" />
-  <img src="screenshots/IMG_8257.PNG" width="22%" />
-  <img src="screenshots/IMG_8258.PNG" width="22%" />
-  <img src="screenshots/IMG_8259.PNG" width="22%" />
-</p>
 
 
 
