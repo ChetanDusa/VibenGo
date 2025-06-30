@@ -98,24 +98,17 @@ Edit
 ## 📸 App Screenshots Preview
 
 <p align="center">
-  <img src="screenshots/IMG_8247.jpg" width="22%" />
-  <img src="screenshots/IMG_8248.jpg" width="22%" />
-  <img src="screenshots/IMG_8249.jpg" width="22%" />
-  <img src="screenshots/IMG_8250.jpg" width="22%" />
+  <img src="screenshots/IMG_8251.PNG" width="22%" />
+  <img src="screenshots/IMG_8252.PNG" width="22%" />
+  <img src="screenshots/IMG_8253.PNG" width="22%" />
+  <img src="screenshots/IMG_8254.PNG" width="22%" />
 </p>
 
 <p align="center">
-  <img src="screenshots/IMG_8251.png" width="22%" />
-  <img src="screenshots/IMG_8252.png" width="22%" />
-  <img src="screenshots/IMG_8253.jpg" width="22%" />
-  <img src="screenshots/IMG_8254.jpg" width="22%" />
-</p>
-
-<p align="center">
-  <img src="screenshots/IMG_8256.jpg" width="22%" />
-  <img src="screenshots/IMG_8257.jpg" width="22%" />
-  <img src="screenshots/IMG_8258.jpg" width="22%" />
-  <img src="screenshots/IMG_8259.jpg" width="22%" />
+  <img src="screenshots/IMG_8256.PNG" width="22%" />
+  <img src="screenshots/IMG_8257.PNG" width="22%" />
+  <img src="screenshots/IMG_8258.PNG" width="22%" />
+  <img src="screenshots/IMG_8259.PNG" width="22%" />
 </p>
 
 
