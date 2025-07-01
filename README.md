@@ -66,7 +66,7 @@ Frontend	React Native, TypeScript
 Styling	Tailwind CSS via NativeWind
 Navigation	Expo Router
 Maps	Google Maps API
-Auth	Clerk (or Firebase, if used)
+Auth	Clerk 
 
 💡 Roadmap
 🔐 Social login (Google, Apple)
