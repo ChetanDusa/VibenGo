@@ -81,8 +81,8 @@ Backend (if any)	Node.js / Express / Firebase Functions
 🌐 Deployment via Expo Hosting
 
 👨‍💻 Contributors
-Varun
 Chetan
+Varun
 Sairam
 
 Dr. Subhra Mazumdar – Project Guide
