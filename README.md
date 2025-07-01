@@ -1,5 +1,9 @@
 # 🚗 VibeNgo  
 *Hybrid Ride Booking App with Real-Time Carpool Integration*
+### 🔗 Live Demo & Screenshots
+
+ **Download the App** from Expo:  
+👉 [Click here to install VibeNgo](https://expo.dev/accounts/bommireddy3132/projects/VibeNgo/builds/845f9f19-e516-4b88-9a41-02722b97a2b4)
 
 ---
 ### 🔗 Live Demo
