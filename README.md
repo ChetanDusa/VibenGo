@@ -22,7 +22,7 @@
 ### 📸 Screenshots
 
 <div align="center">
-  <img src="./screenshots/screen1.png" width="250" />
+  <img src="IMG_8247.jpg" width="250" />
   <img src="./screenshots/screen2.png" width="250" />
   <img src="./screenshots/screen3.png" width="250" />
   <img src="./screenshots/screen4.png" width="250" />
