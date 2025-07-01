@@ -117,7 +117,6 @@ Under the supervision of Dr. Subhra Mazumdar
 <div align="center">
   <img src="./screenshots/IMG_8248.PNG" width="250" />
   <img src="./screenshots/IMG_8249.PNG" width="250" />
-  <img src="./screenshots/IMG_8250.PNG" width="250" />
   <img src="./screenshots/home.jpeg" width="250" />
   <img src="./screenshots/IMG_8252.PNG" width="250" />
   <img src="./screenshots/IMG_8253.PNG" width="250" />
