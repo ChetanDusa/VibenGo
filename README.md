@@ -67,7 +67,6 @@ Styling	Tailwind CSS via NativeWind
 Navigation	Expo Router
 Maps	Google Maps API
 Auth	Clerk (or Firebase, if used)
-Backend (if any)	Node.js / Express / Firebase Functions
 
 💡 Roadmap
 🔐 Social login (Google, Apple)
