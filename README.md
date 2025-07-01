@@ -105,10 +105,11 @@ npx expo start --tunnel
 
 ☁️ Deployment via Expo Hosting
 
-❤️ Acknowledgments
-Made with dedication and collaboration at IIT Indore
-Under the supervision of Dr. Subhra Mazumdar
----
+## ❤️ Acknowledgments
+
+Made with dedication and collaboration at **IIT Indore**  
+Under the supervision of **Dr. Subhra Mazumdar**
+
 
 ### 📸 Screenshots
 
