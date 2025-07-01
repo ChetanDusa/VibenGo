@@ -61,7 +61,7 @@
 | State Mgmt  | Zustand                        |
 
 ---
-
+```
 ## 🛠️ Project Structure
 VibeNgo/
 ├── assets/           # Images, logo, icons
@@ -72,6 +72,7 @@ VibeNgo/
 ├── utils/            # Utility functions
 ├── App.tsx           # Entry point
 └── README.md         # Documentation
+```
 ---
 
 ## ⚡ Getting Started
