@@ -2,6 +2,13 @@
 *Hybrid Ride Booking App with Real-Time Carpool Integration*
 
 ---
+### 🔗 Live Demo
+
+👉 **Install our app **  
+[Click here to install VibeNgo](https://expo.dev/accounts/bommireddy3132/projects/VibeNgo/builds/845f9f19-e516-4b88-9a41-02722b97a2b4)
+
+---
+
 
 ### 👨‍💻 Contributors
 
@@ -12,17 +19,10 @@
 
 ---
 
-### 🔗 Live Demo
-
-👉 **Install via Expo**  
-[Click here to install VibeNgo](https://expo.dev/accounts/bommireddy3132/projects/VibeNgo/builds/845f9f19-e516-4b88-9a41-02722b97a2b4)
-
----
-
 ### 📸 Screenshots
 
 <div align="center">
-  <img src="IMG_8247.jpg" width="250" />
+  <img src="./IMG_8247.jpg" width="250" />
   <img src="./screenshots/screen2.png" width="250" />
   <img src="./screenshots/screen3.png" width="250" />
   <img src="./screenshots/screen4.png" width="250" />
@@ -64,15 +64,14 @@
 
 ## 🛠️ Project Structure
 VibeNgo/
-├── assets/ # Images, logo, icons
-├── components/ # UI Components (StopCard, RideCard, etc.)
-├── screens/ # Screens (Home, BookRide, ConfirmRide, etc.)
-├── navigation/ # Expo Router layouts
-├── services/ # API handling and helpers
-├── utils/ # Utility functions
-├── App.tsx # Entry point
-└── README.md # Documentation
-
+├── assets/           # Images, logo, icons
+├── components/       # UI Components (StopCard, RideCard, etc.)
+├── screens/          # Screens (Home, BookRide, ConfirmRide, etc.)
+├── navigation/       # Expo Router layouts
+├── services/         # API handling and helpers
+├── utils/            # Utility functions
+├── App.tsx           # Entry point
+└── README.md         # Documentation
 ---
 
 ## ⚡ Getting Started
