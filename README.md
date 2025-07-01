@@ -110,7 +110,6 @@ Made with dedication and collaboration at **IIT Indore**
 Under the supervision of **Dr. Subhra Mazumdar**
 
 
-### 📸 Screenshots
 
 ## 📸 Screenshots
 
