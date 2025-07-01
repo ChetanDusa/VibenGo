@@ -104,6 +104,7 @@ npm install @stripe/stripe-react-native
 
 # Start app in tunnel mode
 npx expo start --tunnel
+```
 🔮 Roadmap
 🔐 Google & Apple Sign-in
 
@@ -119,15 +120,7 @@ npx expo start --tunnel
 Made with dedication and collaboration at IIT Indore
 Under the supervision of Dr. Subhra Mazumdar
 
-## 📸 Screenshots
 
-<div align="center">
-  <img src="./screenshots/screen1.png" width="250" />
-  <img src="./screenshots/screen2.png" width="250" />
-  <img src="./screenshots/screen3.png" width="250" />
-  <img src="./screenshots/screen4.png" width="250" />
-  <img src="./screenshots/screen5.png" width="250" />
-</div>
 
 
 
