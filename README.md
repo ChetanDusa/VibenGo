@@ -112,11 +112,20 @@ Under the supervision of Dr. Subhra Mazumdar
 
 ### 📸 Screenshots
 
+## 📸 Screenshots
+
 <div align="center">
-<img src="./screenshots/IMG_8247.jpg" width="250" />
-  <img src="./screenshots/screen2.png" width="250" />
-  <img src="./screenshots/screen3.png" width="250" />
-  <img src="./screenshots/screen4.png" width="250" />
+  <img src="./screenshots/IMG_8248.PNG" width="250" />
+  <img src="./screenshots/IMG_8249.PNG" width="250" />
+  <img src="./screenshots/IMG_8250.PNG" width="250" />
+  <img src="./screenshots/MG_8251.PNG" width="250" />
+  <img src="./screenshots/IMG_8252.PNG" width="250" />
+  <img src="./screenshots/IMG_8253.PNG" width="250" />
+  <img src="./screenshots/IMG_8254.PNG" width="250" />
+  <img src="./screenshots/IMG_8256.PNG" width="250" />
+  <img src="./screenshots/IMG_8257.PNG" width="250" />
+  <img src="./screenshots/IMG_8258.PNG" width="250" />
+  <img src="./screenshots/IMG_8259.PNG" width="250" />
 </div>
 
 ---
