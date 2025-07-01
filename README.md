@@ -116,20 +116,20 @@ Under the supervision of **Dr. Subhra Mazumdar**
   <tr>
     <td><img src="./screenshots/IMG_8248.PNG" width="200" /></td>
     <td><img src="./screenshots/IMG_8249.PNG" width="200" /></td>
+     <td><img src="./screenshots/sign-in.jpeg" width="200" /></td>
     <td><img src="./screenshots/home.jpeg"   width="200" /></td>
-    <td><img src="./screenshots/IMG_8252.PNG" width="200" /></td>
   </tr>
   <tr>
+    <td><img src="./screenshots/IMG_8252.PNG" width="200" /></td>
     <td><img src="./screenshots/IMG_8253.PNG" width="200" /></td>
     <td><img src="./screenshots/IMG_8254.PNG" width="200" /></td>
-    <td><img src="./screenshots/IMG_8256.PNG" width="200" /></td>
-    <td><img src="./screenshots/IMG_8257.PNG" width="200" /></td>
+     <td><img src="./screenshots/IMG_8256.PNG" width="200" /></td>
   </tr>
   <tr>
+    <td><img src="./screenshots/IMG_8257.PNG" width="200" /></td>
     <td><img src="./screenshots/IMG_8258.PNG" width="200" /></td>
     <td><img src="./screenshots/IMG_8259.PNG" width="200" /></td>
-    <td></td>
-    <td></td>
+    
   </tr>
 </table>
 
