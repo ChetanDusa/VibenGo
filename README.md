@@ -116,7 +116,7 @@ Under the supervision of **Dr. Subhra Mazumdar**
   <tr>
     <td><img src="./screenshots/IMG_8248.PNG" width="200" /></td>
     <td><img src="./screenshots/IMG_8249.PNG" width="200" /></td>
-     <td><img src="./screenshots/sign-in.jpeg" width="200" /></td>
+     <td><img src="./screenshots/sign_in.jpeg" width="200" /></td>
     <td><img src="./screenshots/home.jpeg"   width="200" /></td>
   </tr>
   <tr>
@@ -129,7 +129,7 @@ Under the supervision of **Dr. Subhra Mazumdar**
     <td><img src="./screenshots/IMG_8257.PNG" width="200" /></td>
     <td><img src="./screenshots/IMG_8258.PNG" width="200" /></td>
     <td><img src="./screenshots/IMG_8259.PNG" width="200" /></td>
-    <td><img src="./screenshots/" width="200" /></td>
+    <td><img src="./screenshots/WhatsApp Image 2025-07-01 at 13.27.48 (2).jpeg" width="200" /></td>
     
   </tr>
 </table>
