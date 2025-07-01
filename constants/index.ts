@@ -88,7 +88,7 @@ export const onboarding = [
 
     },
   // {
-  //   id: 3,
+  //   id: 3, this is for ride
   //   title: "Your ride, your way. Let's go!",
   //   description:
   //     "Enter your destination, sit back, and let us take care of the rest.",
