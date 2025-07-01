@@ -84,7 +84,7 @@ Varun
 Chetan
 Sairam
 
-Dr. Subhra Mazumdar – Project Guide
+Dr. Subhra Mazumdar 
 
 
 Made with ❤️ at IIT Indore
