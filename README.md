@@ -19,17 +19,6 @@
 
 ---
 
-### 📸 Screenshots
-
-<div align="center">
-  <img src="./IMG_8247.jpg" width="250" />
-  <img src="./screenshots/screen2.png" width="250" />
-  <img src="./screenshots/screen3.png" width="250" />
-  <img src="./screenshots/screen4.png" width="250" />
-</div>
-
----
-
 ## 📱 Overview
 
 **VibeNgo** is a full-stack, cross-platform mobile application for seamless cab bookings with intelligent real-time carpool suggestions. Designed for affordability and sustainability, it connects users traveling in the same direction — reducing cost and carbon footprint.
@@ -119,6 +108,18 @@ npx expo start --tunnel
 ❤️ Acknowledgments
 Made with dedication and collaboration at IIT Indore
 Under the supervision of Dr. Subhra Mazumdar
+---
+
+### 📸 Screenshots
+
+<div align="center">
+<img src="./screenshots/IMG_8247.jpg" width="250" />
+  <img src="./screenshots/screen2.png" width="250" />
+  <img src="./screenshots/screen3.png" width="250" />
+  <img src="./screenshots/screen4.png" width="250" />
+</div>
+
+---
 
 
 
