@@ -1,15 +1,15 @@
-# 🚗 VibeNgo  
+#  VibeNgo  
 *Hybrid Ride Booking App with Real-Time Carpool Integration*
 ![VibeNgo Logo](./assets/images/favicon.png) 
 ### 🔗 Live Demo
 
-👉 **Install our app **  
+ **Install our app **  
 [Click here to install VibeNgo](https://expo.dev/accounts/bommireddy3132/projects/VibeNgo/builds/845f9f19-e516-4b88-9a41-02722b97a2b4)
 
 ---
 
 
-### 👨‍💻 Contributors
+### Contributors
 
 - **Varun kumar reddy Bommireddy**  
 - **Chetan**  
@@ -18,24 +18,24 @@
 
 ---
 
-## 📱 Overview
+## Overview
 
 **VibeNgo** is a full-stack, cross-platform mobile application for seamless cab bookings with intelligent real-time carpool suggestions. Designed for affordability and sustainability, it connects users traveling in the same direction — reducing cost and carbon footprint.
 
 ---
 
-## ✨ Features
+## Features
 
-- 🚕 **Cab Booking** with live status
-- 🤝 **Real-Time Carpool Matching**
-- 🗺️ **Interactive Google Map Integration**
-- ➕ **Multi-Stop Ride Support**
-- 📍 **ETA Calculation at Each Stop**
-- 🧭 Built using **React Native + Expo** for Android & iOS
+-  **Cab Booking** with live status
+-  **Real-Time Carpool Matching**
+-  **Interactive Google Map Integration**
+-  **Multi-Stop Ride Support**
+-  **ETA Calculation at Each Stop**
+-  Built using **React Native + Expo** for Android & iOS
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 | Layer       | Technology                     |
 |-------------|-------------------------------|
@@ -50,7 +50,7 @@
 
 ---
 ```
-## 🛠️ Project Structure
+##  Project Structure
 VibeNgo/
 ├── assets/           # Images, logo, icons
 ├── components/       # UI Components (StopCard, RideCard, etc.)
@@ -63,9 +63,9 @@ VibeNgo/
 ```
 ---
 
-## ⚡ Getting Started
+##  Getting Started
 
-### ✅ Prerequisites
+###  Prerequisites
 
 - Node.js ≥ 16  
 - Git  
@@ -93,24 +93,24 @@ npm install @stripe/stripe-react-native
 # Start app in tunnel mode
 npx expo start --tunnel
 ```
-🔮 Roadmap
-🔐 Google & Apple Sign-in
+ Roadmap
+ Google & Apple Sign-in
 
-💳 In-app Stripe Payments
+ In-app Stripe Payments
 
-📊 Ride History & User Analytics
+ Ride History & User Analytics
 
-🤖 Smart ML-based Carpool Matching
+ Smart ML-based Carpool Matching
 
-☁️ Deployment via Expo Hosting
+ Deployment via Expo Hosting
 
-## ❤️ Acknowledgments
+##  Acknowledgments
 
 Made with dedication and collaboration at **IIT Indore**  
 Under the supervision of **Dr. Subhra Mazumdar**
 
 
-## 📸 Screenshots
+##  Screenshots
 
 <table>
   <tr>
