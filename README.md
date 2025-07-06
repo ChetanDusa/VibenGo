@@ -102,7 +102,13 @@ npx expo start --tunnel
 
  Smart ML-based Carpool Matching
 
- Deployment via Expo Hosting
+👨‍💻 Contributors
+Chetan
+Varun
+Sairam
+
+Deployment via Expo Hosting
+
 
 ##  Acknowledgments
 
