@@ -12,6 +12,7 @@
 ### Contributors
 
 - **Varun kumar reddy Bommireddy**  
+- **Adikam Manogna**
 - **Chetan**  
 - **Sairam**  
 > Developed under the guidance of **Dr. Subhra Mazumdar**, IIT Indore.
